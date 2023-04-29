@@ -1,4 +1,4 @@
-# Practicum 2. Earley Algorithm
+# EarleyParser
 
 Input format:
 1. Number of rules.
